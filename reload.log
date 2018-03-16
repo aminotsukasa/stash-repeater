@@ -1,5 +1,5 @@
-From github.com:aminotsukasa/Updating ab93d76..5637d54
+From github.com:aminotsukasa/Updating 809cf38..2f96460
 Fast-forward
- repeater-security.conf | 1 -
- 1 file changed, 1 deletion(-)
+ repeater-base.conf | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 Reloading nginx: [  OK  ]
