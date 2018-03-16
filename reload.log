@@ -1,5 +1,5 @@
-Updating 4059277..3705fc1
+Updating b176b60..58c3787
 Fast-forward
- repeater-security.conf | 1 -
+ repeater-base.conf | 1 -
  1 file changed, 1 deletion(-)
 Reloading nginx: [  OK  ]
